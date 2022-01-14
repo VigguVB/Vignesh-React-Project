@@ -1,0 +1,136 @@
+.formDiv {
+    width: 96%;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    background-color: #00000096;
+    justify-content: center;
+    border-radius: 14px;
+    box-shadow: #000000ef;
+    padding-left: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.elementControl {
+    width: 62%;
+    /* height: 90px; */
+    margin-left: 16rem;
+    border: 3px solid #00800088;
+    padding-left: 0.5rem;
+    margin-bottom: 0.5em;
+    background-color: white;
+    border-radius: 14px;
+    box-shadow: whitesmoke;
+    
+}
+
+.elementControlComment {
+    width: 62%;
+    height: 180px;
+    margin-left: 16rem;
+    border: 3px solid #00800088;
+    padding-left: 0.5rem;
+    margin-bottom: 0.5em;
+    background-color: white;
+    border-radius: 14px;
+    box-shadow: whitesmoke;
+    
+}
+
+.label {
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 2rem;
+    margin-bottom: 1em;
+    color: orangered;
+}
+
+.input {
+    width: 95%;
+    margin-top: 0.5rem;
+    padding-top: 0.3em;
+    padding-left: 0.5rem;
+    border: 2px solid rgba(0, 0, 0, 0.438);
+    height: 40px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: 200;
+    color: black;
+    border-radius: 14px;
+}
+.inputComment {
+    width: 95%;
+    margin-top: 0.5rem;
+    padding-top: 0.3em;
+    padding-left: 0.5rem;
+    border: 2px solid rgba(0, 0, 0, 0.425);
+    height: 120px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: 200;
+    color: black;
+    border-radius: 14px;
+}
+
+.inputUpload {
+    margin-left: 0.5rem;
+    padding-top: 1rem;
+    border: 3px solid #05ce05be;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    padding-top: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+ 
+}
+
+.heading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+}
+
+.button {
+    margin-top: 2rem;
+    text-align: center;
+    justify-content: center;
+    background-color: #1eca1ea8;
+    position: relative;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+    height: 60px;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+    font-size: 30px;
+    font-family: Verdana;
+    font-weight: 600;
+    color: honeydew;
+}
+.button:hover {
+    border: 5px solid orangered;
+}
+.paragraph {
+    font-family: verdana;
+    font-size: 25px;
+    font-weight: bold;
+    color: #08ac08;
+    text-align: center;
+    background-color: whitesmoke;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    
+}
+.error {
+    font-family: verdana;
+    font-size: 25px;
+    font-weight: bold;
+    color: #a70e0e;
+    text-align: center;
+    background-color: whitesmoke;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    
+}

@@ -1,0 +1,51 @@
+.container{
+    width: 96%;
+    padding: 5px;
+    margin-left: 1.5rem;
+    background-color: hsla(60, 4%, 9%, 0.733);
+    margin: 100px auto;
+    border-radius: 35px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.service{
+    font-size: 45px;
+    font-family: inherit;
+    color: #c5c50d;
+    text-align: center;
+    background-color: #0e010198;
+}
+    
+
+
+.description{
+    padding: 0.5em;
+    padding-bottom: 1.2em;
+    
+}
+
+.box{
+    width : 680px;
+    height: 450px;
+    background-color: rgb(100, 100, 201);
+    margin: 0px 10px;
+    border-radius: 35px;
+    box-shadow: 0 2px 8px rgba(14, 1, 1, 0.26);
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+    text-align: left;
+    text-shadow: 3px 3px rgba(14, 1, 1, 0.26);
+    transition: 1s;
+
+}
+
+.box:hover{
+    transform: scale(1.1);
+
+}

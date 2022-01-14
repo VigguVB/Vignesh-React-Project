@@ -1,0 +1,24 @@
+.contactDiv{
+    width: 96%;
+    border-radius: 24px;
+    background-color: hsl(49, 78%, 50%);
+    margin-left: 1.5em;
+    box-shadow: rgba(8, 0, 0, 0.26);
+    margin-top: 0.5em;
+    justify-content: left;
+    text-align: center;
+
+}
+
+.content{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+    color: #00000096;
+    padding-bottom: 1em;
+    padding: 1em;
+
+}
+.title{
+    color: #00000096;
+    font-weight: bolder;
+}

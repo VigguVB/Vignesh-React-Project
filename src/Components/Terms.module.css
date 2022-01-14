@@ -1,0 +1,25 @@
+.termsDiv{
+    width: 96%;
+    border-radius: 14px;
+    background-color: hsla(0, 0%, 100%, 0.747);
+    margin-left: 1.5em;
+    box-shadow: #080000e8;
+    margin-top: 1em;
+    justify-content: left;
+    text-align: center;
+
+}
+
+.content{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    color: black;
+    padding-bottom: 1em;
+    padding: 1em;
+    text-align: left;
+
+}
+.title{
+    color: black;
+    font-weight: bolder;
+}

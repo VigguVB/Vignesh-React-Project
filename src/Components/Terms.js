@@ -1,0 +1,45 @@
+import React from "react";
+import classes from './Terms.module.css'
+
+const Terms = ()=>{
+    return(
+        <div className={classes.termsDiv}>
+            <h1 className={classes.title}>TERMS & CONDITIONS</h1>
+            <h2  className={classes.content}>
+            THE SALE OF PRODUCTS AND SERVICES ("PRODUCTS") BY SELLER ARE SUBJECT TO THESE TERMS AND CONDITIONS ("AGREEMENT") REGARDLESS OF OTHER OR ADDITIONAL TERMS OR CONDITIONS THAT CONFLICT OR CONTRADICT THIS AGREEMENT IN ANY PURCHASE ORDER, DOCUMENT, OR OTHER COMMUNICATION ("ORDER")PREPRINTED TERMS AND CONDITIONS ON ANY CUSTOMER ("CUSTOMER") DOCUMENT (FOR EXAMPLE: PURCHASE ORDERS OR CONFIRMATIONS) AND/OR SELLERS FAILURE TO OBJECT TO CONFLICTING OR ADDITIONAL TERMS WILL NOT CHANGE OR ADD TO THE TERMS OF THIS AGREEMENT.
+            <br></br>
+            <br></br>
+1. ORDERS: All Orders are subject to acceptance by Seller. Seller reserves the right to allocate the sale of Products among its customers. Orders for special, custom, value added and Products specifically identified by Seller as non-standard are non-cancellable and non-returnable ("NCNR"). 
+The Customer may not cancel or reschedule Orders for standard Products without Sellers consent, which shall not be unreasonably withheld.
+<br></br>
+<br></br>
+2. PRICES: Orders are billed at the prices in effect at the time of shipment. Prices will be as specified by Seller and will be applicable for the period specified in Seller's quote. If no period is specified, quoted prices will be applicable for fifteen (15) days.  Prices are subject to increase in the event of an increase in Seller's costs or other circumstances beyond Seller's reasonable control. If Customer does not purchase the quantity upon which quantity prices are based, Customer will pay the non-discounted price for the quantity actually purchased and/or a cancellation or restocking fee. Prices are exclusive of taxes, impositions and other charges, including sales, use, excise, value-added and similar taxes or charges imposed by any government authority, international shipping charges, forwarding agent's and broker's fees, bank fees, consular fees, and document fees. Customer is responsible for any additional fees and taxes.
+<br></br>
+<br></br>
+3. TERMS OF PAYMENT: Customer agrees to pay the entire net amount of each invoice from Seller pursuant to the terms of each such invoice, without offset or deduction. Orders are subject to credit approval by Seller, which may in its sole discretion at any time change the terms of Customer's credit, require payment in cash, bank wire transfer/EFT or by official bank check, and/or require payment of any or all amounts due or to become due for Customer's order before shipment of any or all of the Products. If Seller reasonably believes that the Customer's ability to make payments may be impaired or if Customer fails to pay any invoice when due, Seller may suspend delivery of any order or any remaining balance thereof, until such payment is made or cancel any order or any remaining balance thereof. Customer will remain liable to pay for any Products already shipped and all Non-Standard Products ordered by Customer. Customer agrees to submit such financial information as Seller may reasonably require for determination of credit terms and/or continuation of credit terms. Checks are accepted subject to collection and the date of collection will be deemed the date of payment. Any check received from Customer may be applied by Seller against any obligation owing by Customer to Seller under this or any other contract, regardless of any statement appearing on or referring to such check, without discharging Customer's liability for any additional amounts owing by Customer to Seller. The acceptance by Seller of such check will not constitute a waiver of Seller's right to pursue the collection of any remaining balance. If Customer fails to make payment when due, Seller may pursue any legal or equitable remedies, in which event Seller will be entitled to reimbursement of costs for collection and reasonable attorneys' fees. Seller may apply payments to any of Customer's accounts. 
+Payment delay after given payment term and grace period, 5% - 10% per month interest will be applicable on the open invoice value. 
+<br></br>
+<br></br>
+4. DELIVERY AND TITLE: Customer is responsible for all shipping costs and any applicable surcharges. Risk of loss pass to Customer upon delivery of the Products to the carrier. sellers delivery dates are estimates only and Seller is not liable for delays in delivery. Seller reserves the right to make partial shipments and Customer will accept delivery and pay for the Products delivered. A delayed delivery of any part of an Order does not entitle Customer to cancel other deliveries.
+<br></br>
+<br></br>
+5. ACCEPTANCE OF PRODUCTS AND PRODUCT RETURNS: Customer must notify Seller in writing of any damage, shortage, or other discrepancy to Products within 10 days after delivery. After the 10th day Customer is deemed to have accepted the Products and may not revoke acceptance. Customer cannot return Products without a return material authorization ("RMA") number. Returned Products must be in original manufacturer's shipping cartons or equivalent. Customer must return all Products, freight prepaid, as specified in the RMA and pay any restocking charges. At Sellers discretion, Seller will return all Products not eligible for return to Customer freight collect, or hold Products for Customer's account at Customer's expense. Our liability is limited to replacing the material or refunding the invoice value of the material sold. Maintain traceability, do not mix lots.
+<br></br>
+<br></br>
+6. SELLERS LIMITED WARRANTY: Seller will transfer to Customer any Product warranties and indemnities authorized by the manufacturer, including any transferable warranties and indemnities for intellectual property infringement. Seller warrants the Products will conform to the manufacturer's specifications. Value-added work performed by Seller on Products will conform to Customer's written specifications accepted by Seller prior to commencing such work ("Customer's Specifications"). SELLER MAKES NO OTHER WARRANTY, EXPRESS OR IMPLIED. SELLER MAKES NO WARRANTY OF MERCHANTABILITY, FITNESS FOR PURPOSE OR NON-INFRINGEMENT. If Products do not meet manufacturer's specifications or if value-added work by Seller does not meet Customer's Specifications the Products will be, at Seller's choice: (1) repaired, (2) replaced at no cost to Customer; or (3) refund Customer's purchase price. Customer must return Products to Seller, along with acceptable proof of purchase, within 30 days from date of delivery, freight charges prepaid.
+<br></br>
+<br></br>
+7. FORCES BEYOND SELLER'S CONTROL: Seller is not liable for failure to fulfil its obligations for any accepted Order or for delays in delivery due to causes beyond its reasonable control, (for example: acts of God, acts or omissions of the Customer, man-made or natural disasters, epidemic medical crises, materials shortages, strikes, acts of terrorism, delays in transportation, or inability to obtain labour or materials through its regular sources).
+<br></br>
+<br></br>
+8. EXPORT/IMPORT: Certain Products sold by Seller and other related technology and documentation are subject to export control laws, regulations and orders of a region and the export or import control laws and regulations of other countries. Customer will not directly or indirectly export or divert any Products and other related technology and documentation to any third party or country where such export or transmission is restricted or prohibited. Customer agrees it is responsible to obtain any license to export, re-export, or import as may be required.
+<br></br>
+<br></br>
+9. RETENTION OF TITLES: Title to (the Goods) shall remain vested in (Seller) and shall not pass to (the Customer) until the purchase price for (the Goods) has been paid in full and received by (Seller) Until title to (the Goods) passes: (Seller) shall have authority to retake, sell or otherwise deal with and/or dispose of all or any part of (the Goods); (Seller) and its agents and employees shall be entitled at any time and without the need to give notice enter upon any property upon which (the Goods) or any part are stored, or upon which (Seller) reasonably believes them to be kept; (The Buyer) shall store or mark (the Goods) in a manner reasonably satisfactory to (Seller) indicating that title to (the Goods) remains vested in (Seller); and (The Buyer) shall insure (the Goods) to their full replacement value, and arrange for (Seller) to be noted on the policy of insurance as the loss payee. Irrespective of whether title to (the Goods) remains vested in (Seller), risk in (the Goods) shall pass to (the Customer) upon delivery  electronic components distributor
+
+            </h2>
+        </div>
+    )
+}
+
+export default Terms;
